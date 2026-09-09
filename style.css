@@ -40,6 +40,7 @@ body {
     background: rgba(0, 0, 0, 0.15);
 
     z-index: 2;
+    pointer-events: none;
 }
 
 .content {
